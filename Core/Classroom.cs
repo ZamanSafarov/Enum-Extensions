@@ -16,12 +16,12 @@ namespace Core
                 if (value == ClassroomType.Backend)
                 {
                     _classroomType = value;
-                    StudentLimit = 20;
+                    StudentLimit = 1;
                 }
                 else if (value == ClassroomType.Frontend)
                 {
                     _classroomType = value;
-                    StudentLimit = 15;
+                    StudentLimit = 2;
                 }
 
 

@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{60BD3356-8215-4937-81CA-2AD2A9AD5C2B}|Enum-Extensions\\Enum-Extensions.csproj|solutionrelative:enum-extensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\enum-extensions\\core\\managers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|solutionrelative:core\\managers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\enum-extensions\\core\\managers\\classroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|solutionrelative:core\\managers\\classroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\enum-extensions\\core\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|solutionrelative:core\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|solutionrelative:core\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\enum-extensions\\core\\managers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|solutionrelative:core\\managers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\enum-extensions\\core\\extensions\\helpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|solutionrelative:core\\extensions\\helpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\enum-extensions\\core\\managers\\classroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|solutionrelative:core\\managers\\classroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D026CD1F-6923-4E08-BC3F-2A33A881DF6B}|Core\\Core.csproj|d:\\coding\\aztu-codeacademy\\enum-extensions\\core\\infrastructure\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Enum-Extensions\\Program.cs",
               "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Enum-Extensions\\Enum-Extensions\\Program.cs",
               "RelativeToolTip": "Enum-Extensions\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAAAAAAAA",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAwwJ8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T13:58:46.216Z",
               "IsPinned": true,
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Classroom.cs",
               "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Enum-Extensions\\Core\\Classroom.cs",
               "RelativeDocumentMoniker": "Core\\Classroom.cs",
               "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Enum-Extensions\\Core\\Classroom.cs",
               "RelativeToolTip": "Core\\Classroom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T15:57:50.091Z",
               "EditorCaption": ""
@@ -85,12 +85,11 @@
               "RelativeToolTip": "Core\\Infrastructure\\Menu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T15:06:39.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T15:06:39.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Enum-Extensions\\Core\\Student.cs",
               "RelativeDocumentMoniker": "Core\\Student.cs",
@@ -98,31 +97,30 @@
               "RelativeToolTip": "Core\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T14:44:31.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T14:44:31.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "StudentManager.cs",
               "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Enum-Extensions\\Core\\Managers\\StudentManager.cs",
               "RelativeDocumentMoniker": "Core\\Managers\\StudentManager.cs",
               "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Enum-Extensions\\Core\\Managers\\StudentManager.cs",
               "RelativeToolTip": "Core\\Managers\\StudentManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T14:13:00.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ClassroomManager.cs",
               "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Enum-Extensions\\Core\\Managers\\ClassroomManager.cs",
               "RelativeDocumentMoniker": "Core\\Managers\\ClassroomManager.cs",
               "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\Enum-Extensions\\Core\\Managers\\ClassroomManager.cs",
               "RelativeToolTip": "Core\\Managers\\ClassroomManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T14:12:46.611Z",
               "EditorCaption": ""
@@ -141,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HelpManager.cs",
               "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\Enum-Extensions\\Core\\Extensions\\HelpManager.cs",
               "RelativeDocumentMoniker": "Core\\Extensions\\HelpManager.cs",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "Core\\Extensions\\HelpManager.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAqwFoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T14:09:02.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T14:09:02.924Z"
             }
           ]
         }

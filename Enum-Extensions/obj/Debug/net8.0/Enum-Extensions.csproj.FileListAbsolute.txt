@@ -16,3 +16,4 @@ D:\Coding\Aztu-Codeacademy\Enum-Extensions\Enum-Extensions\obj\Debug\net8.0\refi
 D:\Coding\Aztu-Codeacademy\Enum-Extensions\Enum-Extensions\obj\Debug\net8.0\Enum-Extensions.pdb
 D:\Coding\Aztu-Codeacademy\Enum-Extensions\Enum-Extensions\obj\Debug\net8.0\Enum-Extensions.genruntimeconfig.cache
 D:\Coding\Aztu-Codeacademy\Enum-Extensions\Enum-Extensions\obj\Debug\net8.0\ref\Enum-Extensions.dll
+D:\Coding\Aztu-Codeacademy\Enum-Extensions\Enum-Extensions\obj\Debug\net8.0\Enum-Extensions.sourcelink.json

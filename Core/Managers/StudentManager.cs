@@ -28,18 +28,18 @@ namespace Core.Managers
         public void Remove(int id)
         {
             Student[] filteredStudent = new Student[0];
-            bool found = false;
+            bool found = true;
             foreach (var item in data)
             {
                 if (!(item.Id == id))
                 {
                     int len = filteredStudent.Length;
-                    Array.Resize(ref filteredStudent, len - 1);
+                    Array.Resize(ref filteredStudent, len + 1);
                     filteredStudent[len] = item;
-                    found = true;
+                    found = false;
                 }
             }
-            if (found == false)
+            if (found != false)
             {
                 throw new StudentNotFoundException("No Student Found by Id");
             }
@@ -47,16 +47,16 @@ namespace Core.Managers
         }
         public void FindId(int id) 
         {
-            bool found = false;
+            bool found = true;
             foreach (Student student in data)
             {
                 if (student.Id == id) 
                 {
                     Console.WriteLine(student);
-                    found = true;
+                    found = false;
                 }
             }
-            if (found ==false)
+            if (found != false)
             {
                 throw new StudentNotFoundException("No Student Found by Id");
             }

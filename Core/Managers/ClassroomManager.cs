@@ -34,7 +34,7 @@ namespace Core.Managers
         public void Remove(int id)
         {
             Classroom[] filteredClassroom = new Classroom[0];
-            bool found = false;
+            bool found = true;
             foreach (var item in data)
             {
                 if (!(item.Id == id))
@@ -42,10 +42,10 @@ namespace Core.Managers
                     int len = filteredClassroom.Length;
                     Array.Resize(ref filteredClassroom, len + 1);
                     filteredClassroom[len] = item;
-                    found = true;
+                    found = false;
                 }
             }
-            if (found == false)
+            if (found != false)
             {
                 throw new ClasroomNotFoundException("No Classroom Found by Id");
             }
@@ -53,16 +53,16 @@ namespace Core.Managers
         }
         public void FindId(int id)
         {
-            bool found = false;
+            bool found = true;
             foreach (Classroom classroom in data)
             {
                 if (classroom.Id == id)
                 {
                     Console.WriteLine(classroom);
-                    found = true;
+                    found = false;
                 }
             }
-            if (found == false)
+            if (found != false)
             {
                 throw new ClasroomNotFoundException("No Classroom Found by Id");
             }

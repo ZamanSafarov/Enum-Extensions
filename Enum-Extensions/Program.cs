@@ -87,7 +87,10 @@ namespace Enum_Extensions
                     goto readmenu;
                 case Menu.StudentAdd:
                     Console.Clear();
+                  
                     Student s = new Student();
+                    
+                   
                     do
                     {
                         name = HelpManager.ReadString("Write The Name of Student: ");
@@ -135,7 +138,7 @@ namespace Enum_Extensions
                                     HelpManager.PrintError("Wrong choice, Try again!!!");
                                     goto l5;
                             }
-
+                   
                             classMgr.Add(c1);
                             Console.Clear();
 
